@@ -11,7 +11,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming-ebook-dp-B00ACC2536/dp/B00ACC2536/ref=mt_kindle?_encoding=UTF8&me=&qid=)
 
-- [ ] [The Launch Pad: Inside Y Combinator, Silicon Valley’s Most Exclusive School for Startups] (https://www.amazon.com/Launch-Pad-Inside-Combinator-ebook/dp/B007X5ZBU4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+- [ ] [The Launch Pad: Inside Y Combinator, Silicon Valley’s Most Exclusive School for Startups](https://www.amazon.com/Launch-Pad-Inside-Combinator-ebook/dp/B007X5ZBU4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
 - [ ] [The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made Billions . . . and Created Plenty of Controversy](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy-ebook/dp/B01NCJRMQV/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
