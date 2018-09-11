@@ -29,7 +29,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] JLPT N2 passed
 - [ ] JLPT N1 passed (doing)
-- [ ] TOEFL scource above 100 
+- [ ] TOEFL scource above 110 
 - [ ] GRE
 - [x] Doing summer intern
 - [x] GPA over 3.5
