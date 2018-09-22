@@ -62,3 +62,5 @@ it is my personal goal before i graduate from college, if you guys have some coo
  - [x] [Caltech cs156](https://work.caltech.edu/telecourse.html)
  - [x] [NTU Machine Learning Foundations](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
  - [ ] [NTU Machine Learning Techniques](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
+ - [ ] [NTU Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
+ - [ ] [NTU Deep Learning and Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLNLP18.html)
