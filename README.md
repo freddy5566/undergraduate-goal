@@ -44,8 +44,9 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] Doing summer intern
 - [x] GPA over 3.5
 - [x] Ios developnment (swift/objective-c)
-- [x] Front-end development
-- [x] Back-end development
+- [ ] Android developnment
+- [ ] Front-end development
+- [ ] Back-end development
 - [ ] Machine learning (doing)
 - [ ] Deep learning (doing)
 - [ ] NLP (doing)
