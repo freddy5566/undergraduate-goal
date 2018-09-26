@@ -23,7 +23,17 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [THE HARD THING ABOUT HARD THINGS：Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
 
-- [ ] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
+- [ ] [Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
+
+- [x] [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X) 
+
+- [x] [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_1?s=books&ie=UTF8&qid=1537974860&sr=1-1&keywords=the+innovators)
+
+- [ ] [Getting More: How to Negotiate to Achieve Your Goals in the Real World by Stuart Diamond](https://www.amazon.com/Getting-More-Negotiate-Achieve-2010-12-28/dp/B008HVHB6K/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=B008HVHB6K&pd_rd_r=167fb8db-c19f-11e8-afd4-5de77bfa64dd&pd_rd_w=mipCO&pd_rd_wg=UNEYi&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=53dead45-2b3d-4b73-bafb-fe26a7f14aac&pf_rd_r=3G7PM0KFT3HWER1Z3NAG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=3G7PM0KFT3HWER1Z3NAG)
+
+- [ ] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
+
+- [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
  
 ## todo list
 
