@@ -68,6 +68,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
  - [x] [Stanford cs231n](http://cs231n.stanford.edu/)
  - [ ] [Stanford cs229](http://cs229.stanford.edu/)
  - [ ] [CMU 36-705](http://www.stat.cmu.edu/~siva/705/main.html)
+ - [ ] [CMU Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
  - [x] [MIT 6.851](https://courses.csail.mit.edu/6.851/)
  - [x] [MIT 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
  - [x] [Caltech cs156](https://work.caltech.edu/telecourse.html)
@@ -76,4 +77,3 @@ it is my personal goal before i graduate from college, if you guys have some coo
  - [ ] [NTU Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
  - [ ] [NTU Deep Learning and Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLNLP18.html)
  - [ ] [NTU Linear Algebra](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA18.html)
- - [ ] [CMU Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
