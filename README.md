@@ -76,3 +76,4 @@ it is my personal goal before i graduate from college, if you guys have some coo
  - [ ] [NTU Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
  - [ ] [NTU Deep Learning and Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLNLP18.html)
  - [ ] [NTU Linear Algebra](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA18.html)
+ - [ ] [CMU Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
