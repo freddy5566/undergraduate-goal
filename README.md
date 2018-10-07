@@ -5,8 +5,6 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.amazon.com/Start-up-You-Future-Yourself-Transform/dp/0307888908) reading it now.
 
-- [ ] [夢をかなえるゾウ](https://www.amazon.co.jp/%E5%A4%A2%E3%82%92%E3%81%8B%E3%81%AA%E3%81%88%E3%82%8B%E3%82%BE%E3%82%A6-%E6%B0%B4%E9%87%8E%E6%95%AC%E4%B9%9F-ebook/dp/B00CHIL9JO) reading it now.
-
 - [ ] [I Will Teach You To Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489) reading it now.
 
 - [ ] [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming-ebook-dp-B00ACC2536/dp/B00ACC2536/ref=mt_kindle?_encoding=UTF8&me=&qid=)
@@ -33,9 +31,23 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] [Platform Revolution: How Networked Markets Are Transforming the Economyand How to Make Them Work for You](https://www.amazon.com/Platform-Revolution-Networked-Transforming-Economyand-ebook/dp/B00ZAT8VS4/ref=sr_1_1?ie=UTF8&qid=1538930032&sr=8-1&keywords=Platform+Revolution)
 
+- [ ] [Co-Opetition](https://www.amazon.com/Co-Opetition-Adam-M-Brandenburger-ebook/dp/B004JHYREU/ref=sr_1_1?ie=UTF8&qid=1538930094&sr=8-1&keywords=Co-Opetition)
+
 - [ ] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
+
+- [ ] [東印度公司與亞洲的海洋：跨國公司如何創造二百年歐亞整體史](https://www.books.com.tw/products/0010776944)
+
+- [ ] [搖擺於歐亞間的沙皇們：俄羅斯‧羅曼諾夫王朝的大地](https://www.books.com.tw/products/0010776947)
+
+
+
+- [ ] [夢をかなえるゾウ](https://www.amazon.co.jp/%E5%A4%A2%E3%82%92%E3%81%8B%E3%81%AA%E3%81%88%E3%82%8B%E3%82%BE%E3%82%A6-%E6%B0%B4%E9%87%8E%E6%95%AC%E4%B9%9F-ebook/dp/B00CHIL9JO) reading it now.
+
+- [ ] [一歩を越える勇気](https://www.amazon.co.jp/%E4%B8%80%E6%AD%A9%E3%82%92%E8%B6%8A%E3%81%88%E3%82%8B%E5%8B%87%E6%B0%97-%E6%A0%97%E5%9F%8E%E5%8F%B2%E5%A4%9A/dp/476319979X/ref=sr_1_1?ie=UTF8&qid=1538930250&sr=8-1&keywords=%E6%A0%97%E5%9F%8E%E5%8F%B2%E5%A4%9A)
+
+
  
 ## todo list
 
