@@ -81,7 +81,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
  - [ ] [Stanford cs224n](http://web.stanford.edu/class/cs224n/) doing it.
  - [ ] [Stanford cs231n](http://cs231n.stanford.edu/)
  - [ ] [Stanford cs229](http://cs229.stanford.edu/)
- - [ ] [Stanford cs20](http://web.stanford.edu/class/cs20si/syllabus.html)
+ - [x] [Stanford cs20](http://web.stanford.edu/class/cs20si/syllabus.html)
  - [ ] [CMU 36-705](http://www.stat.cmu.edu/~siva/705/main.html)
  - [ ] [CMU Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
  - [x] [MIT 6.851](https://courses.csail.mit.edu/6.851/)
