@@ -55,12 +55,12 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] JLPT N2 passed
 - [ ] JLPT N1 passed (doing)
-- [ ] TOEFL scource above 110 
+- [ ] TOEFL score above 110 
 - [ ] GRE
 - [x] Doing summer intern
 - [x] GPA over 3.5
-- [x] Ios developnment (swift/objective-c)
-- [ ] Android developnment
+- [x] Ios development (swift/objective-c)
+- [ ] Android development
 - [ ] Front-end development
 - [ ] Back-end development
 - [ ] Machine learning (doing)
@@ -69,9 +69,10 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [ ] React native
 - [ ] Doing summer research
 - [ ] SQL
-- [ ] MIT intern program 
+- [ ] MIT intern program
 - [ ] Google summer of code
 - [ ] Apple WWDC scholarship
+- [x] Join open source project
 
 ## online courses
 
