@@ -55,7 +55,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] JLPT N2 passed
 - [ ] JLPT N1 passed (doing)
-- [ ] TOEFL score above 110 
+- [ ] TOEFL score above 110
 - [ ] GRE
 - [x] Doing summer intern
 - [x] GPA over 3.5
@@ -73,6 +73,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [ ] Google summer of code
 - [ ] Apple WWDC scholarship
 - [x] Join open source project
+- [ ] Go on a trip around Taiwan
+- [ ] Go on a trip around Japan
 
 ## online courses
 
