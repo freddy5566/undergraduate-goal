@@ -41,6 +41,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [搖擺於歐亞間的沙皇們：俄羅斯‧羅曼諾夫王朝的大地](https://www.books.com.tw/products/0010776947)
 
+- [x] [大清帝國與中華的混迷：現代東亞如何處理內亞帝國的遺產](https://www.books.com.tw/products/0010799939)
+
 - [ ] [日常東京Tokyo Style](https://www.books.com.tw/products/0010708635)
 
 - [ ] [夢をかなえるゾウ](https://www.amazon.co.jp/%E5%A4%A2%E3%82%92%E3%81%8B%E3%81%AA%E3%81%88%E3%82%8B%E3%82%BE%E3%82%A6-%E6%B0%B4%E9%87%8E%E6%95%AC%E4%B9%9F-ebook/dp/B00CHIL9JO) reading it now.
