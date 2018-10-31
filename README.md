@@ -93,6 +93,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
  - [ ] [CMU Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/)
  - [x] [MIT 6.851](https://courses.csail.mit.edu/6.851/)
  - [x] [MIT 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+ - [x] [MIT 6.148](http://webdevelopment.mit.edu/2018/lectures)
  - [x] [Caltech cs156](https://work.caltech.edu/telecourse.html)
  - [x] [NTU Machine Learning Foundations](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
  - [ ] [NTU Machine Learning Techniques](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
