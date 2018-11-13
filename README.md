@@ -35,6 +35,12 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [The Chrysanthemum And the Sword: Patterns of Japanese Culture](https://www.amazon.com/Chrysanthemum-Sword-Patterns-Japanese-Culture/dp/0710086776)
 
+- [ ] [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
+
+- [ ] [Play Bigger](https://www.amazon.com/Play-Bigger-Dreamers-Innovators-Dominate/dp/0062407619)
+
+- [ ] [Purple Cow](https://www.amazon.com/Purple-Cow-New-Transform-Remarkable/dp/1591843170)
+
 - [ ] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
