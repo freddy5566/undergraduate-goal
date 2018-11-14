@@ -1,5 +1,5 @@
 # undergraduate-goal
-it is my personal goal before i graduate from college, if you guys have some cool advice, please just let me know
+it is my personal goal before i graduate from college, if you guys have some cool advices, please just let me know
 
 ## reading list
 
