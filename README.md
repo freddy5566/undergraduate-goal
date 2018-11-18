@@ -3,9 +3,9 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 ## reading list
 
-- [ ] [The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.amazon.com/Start-up-You-Future-Yourself-Transform/dp/0307888908) reading it now.
+- [x] [The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.amazon.com/Start-up-You-Future-Yourself-Transform/dp/0307888908)
 
-- [ ] [I Will Teach You To Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489) reading it now.
+- [x] [I Will Teach You To Be Rich](https://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489)
 
 - [ ] [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming-ebook-dp-B00ACC2536/dp/B00ACC2536/ref=mt_kindle?_encoding=UTF8&me=&qid=)
 
@@ -40,6 +40,10 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [ ] [Play Bigger](https://www.amazon.com/Play-Bigger-Dreamers-Innovators-Dominate/dp/0062407619)
 
 - [ ] [Purple Cow](https://www.amazon.com/Purple-Cow-New-Transform-Remarkable/dp/1591843170)
+
+- [ ] [Le Corps poétique : un enseignement de la création théâtrale](https://www.amazon.fr/Corps-po%C3%A9tique-enseignement-cr%C3%A9ation-th%C3%A9%C3%A2trale/dp/274270454X) reading it.
+
+- [ ] [Steve Jobs](https://www.amazon.fr/Steve-Jobs-Walter-Isaacson/dp/2253168521/ref=sr_1_1?s=books&ie=UTF8&qid=1542557294&sr=1-1&keywords=steve+jobs) read it again.
 
 - [ ] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
@@ -85,6 +89,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] Join open source project
 - [ ] Go on a trip around Taiwan
 - [ ] Go on a trip around Japan
+- [ ] Start a startup
 
 ## online courses
 
