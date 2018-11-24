@@ -45,6 +45,12 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [Steve Jobs](https://www.amazon.fr/Steve-Jobs-Walter-Isaacson/dp/2253168521/ref=sr_1_1?s=books&ie=UTF8&qid=1542557294&sr=1-1&keywords=steve+jobs) read it again.
 
+- [ ] [How Music Works: The Science and Psychology of Beautiful Sounds, from Beethoven to the Beatles and Beyond](https://www.amazon.com/How-Music-Works-Psychology-Beautiful/dp/0316098310)
+
+- [ ] [Why You Love Music: From Mozart to Metallica--The Emotional Power of Beautiful Sounds](https://www.amazon.com/Why-You-Love-Music-Metallica/dp/0316260673/ref=sr_1_1?s=books&ie=UTF8&qid=1543066095&sr=1-1&keywords=why+you+love+music)
+
+- [ ] [Harmony and Theory: Essential Concepts Series](https://www.amazon.com/Harmony-Theory-Essential-Musicians-Institute/dp/0793579910/ref=sr_1_1?s=books&ie=UTF8&qid=1543066130&sr=1-1&keywords=harmony+%26+theory)
+
 - [ ] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
