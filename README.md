@@ -108,7 +108,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
  - [x] [Stanford cs106](https://see.stanford.edu/Course/CS106A)
  - [ ] [Stanford cs230](http://cs230.stanford.edu/)
  - [x] [Stanford cs224n](http://web.stanford.edu/class/cs224n/)
- - [ ] [Stanford cs231n](http://cs231n.stanford.edu/) doing it now
+ - [x] [Stanford cs231n](http://cs231n.stanford.edu/)
  - [ ] [Stanford cs229](http://cs229.stanford.edu/)
  - [x] [Stanford cs20](http://web.stanford.edu/class/cs20si/syllabus.html)
  - [ ] [CMU 36-705](http://www.stat.cmu.edu/~siva/705/main.html)
@@ -119,6 +119,6 @@ it is my personal goal before i graduate from college, if you guys have some coo
  - [x] [Caltech cs156](https://work.caltech.edu/telecourse.html)
  - [x] [NTU Machine Learning Foundations](https://www.youtube.com/watch?v=nQvpFSMPhr0&list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf)
  - [ ] [NTU Machine Learning Techniques](https://www.youtube.com/watch?v=A-GxGCCAIrg&list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2)
- - [ ] [NTU Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
+ - [x] [NTU Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
  - [ ] [NTU Deep Learning and Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLNLP18.html)
  - [ ] [NTU Linear Algebra](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA18.html)
