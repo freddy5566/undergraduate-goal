@@ -53,6 +53,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [Pitch Anything: An Innovative Method for Presenting, Persuading, and Winning the Deal](https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854)
 
+- [ ] [The End of History and the Last Man](https://www.amazon.com/End-History-Last-Man/dp/0743284550)
+
 - [ ] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
