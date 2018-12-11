@@ -55,6 +55,10 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [The End of History and the Last Man](https://www.amazon.com/End-History-Last-Man/dp/0743284550)
 
+- [ ] [Factfulness: Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think](https://www.amazon.com/Factfulness-Reasons-Wrong-Things-Better-ebook/dp/B0769XK7D6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+
+- [ ] [Big History: From the Big Bang to the Present](https://www.amazon.com/Big-History-Bang-Present-ebook/dp/B00918JSD2)
+
 - [ ] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
