@@ -85,11 +85,11 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] GPA over 3.5
 - [x] Ios development (swift/objective-c)
 - [ ] Android development
-- [ ] Front-end development
+- [x] Front-end development (react + redux + rxjs)
 - [ ] Back-end development
-- [ ] Machine learning (doing)
-- [ ] Deep learning (doing)
-- [ ] NLP (doing)
+- [ ] Machine learning
+- [ ] Deep learning
+- [ ] NLP
 - [ ] React native
 - [ ] Doing summer research
 - [ ] SQL
