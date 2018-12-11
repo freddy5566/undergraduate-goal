@@ -69,6 +69,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [願你的深情，能被溫柔以待](https://www.books.com.tw/products/0010794010)
 
+- [ ] [筆尖上的擺渡人](https://www.books.com.tw/products/0010767529)
+
 - [ ] [日常東京Tokyo Style](https://www.books.com.tw/products/0010708635)
 
 - [ ] [夢をかなえるゾウ](https://www.amazon.co.jp/%E5%A4%A2%E3%82%92%E3%81%8B%E3%81%AA%E3%81%88%E3%82%8B%E3%82%BE%E3%82%A6-%E6%B0%B4%E9%87%8E%E6%95%AC%E4%B9%9F-ebook/dp/B00CHIL9JO) reading it now.
