@@ -111,7 +111,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [ ] Google summer of code
 - [ ] Apple WWDC scholarship
 - [x] Join open source project
-- [ ] Go on a trip around Taiwan
+- [x] Go on a trip around Taiwan
 - [ ] Go on a trip around Japan
 - [ ] Start a startup
 - [x] Play guitar
