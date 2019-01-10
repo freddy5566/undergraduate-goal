@@ -67,6 +67,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [21 Lessons for the 21st Century](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179) 
 
+- [x] [1984](https://www.amazon.com/Nineteen-eighty-four-George-Orwell-ebook/dp/B004EEP7JW)
+
 - [x] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
