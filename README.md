@@ -67,7 +67,9 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead](https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592408419)
 
-- [ ] [21 Lessons for the 21st Century](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179) 
+- [ ] [21 Lessons for the 21st Century](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179)
+
+- [ ] [Leading Matters: Lessons from My Journey](https://www.amazon.com/Leading-Matters-Lessons-My-Journey/dp/1503608018) 
 
 - [x] [1984](https://www.amazon.com/Nineteen-eighty-four-George-Orwell-ebook/dp/B004EEP7JW)
 
