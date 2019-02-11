@@ -93,7 +93,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [筆尖上的擺渡人](https://www.books.com.tw/products/0010767529)
 
-- [ ] [蔡康永的情商課：為你自己活一次](https://www.books.com.tw/products/0010802223)
+- [x] [蔡康永的情商課：為你自己活一次](https://www.books.com.tw/products/0010802223)
 
 - [x] [聽說你在創業](https://www.books.com.tw/products/0010811353)
 
