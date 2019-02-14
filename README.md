@@ -77,6 +77,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] [Smart Business: What Alibaba's Success Reveals about the Future of Strategy](https://www.amazon.com/Smart-Business-Alibabas-Success-Strategy/dp/1633693295)
 
+- [x] [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
+
 - [x] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
