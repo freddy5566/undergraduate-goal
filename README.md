@@ -61,7 +61,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [Big History: From the Big Bang to the Present](https://www.amazon.com/Big-History-Bang-Present-ebook/dp/B00918JSD2)
 
-- [ ] [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) reading it
+- [x] [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) reading it
 
 - [ ] [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
 
