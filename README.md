@@ -79,7 +79,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
 
-- [] [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
+- [ ] [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
 
 - [ ] [Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728/ref=sr_1_1?s=books&ie=UTF8&qid=1550502017&sr=1-1&keywords=find+your+why)
 
