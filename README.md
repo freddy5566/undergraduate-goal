@@ -107,10 +107,10 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] [夢をかなえるゾウ](https://www.amazon.co.jp/%E5%A4%A2%E3%82%92%E3%81%8B%E3%81%AA%E3%81%88%E3%82%8B%E3%82%BE%E3%82%A6-%E6%B0%B4%E9%87%8E%E6%95%AC%E4%B9%9F-ebook/dp/B00CHIL9JO)
 
+- [x] [最後の秘境 東京藝大:天才たちのカオスな日常](https://www.amazon.co.jp/%E6%9C%80%E5%BE%8C%E3%81%AE%E7%A7%98%E5%A2%83-%E6%9D%B1%E4%BA%AC%E8%97%9D%E5%A4%A7-%E5%A4%A9%E6%89%8D%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%AB%E3%82%AA%E3%82%B9%E3%81%AA%E6%97%A5%E5%B8%B8-%E4%BA%8C%E5%AE%AE-%E6%95%A6%E4%BA%BA/dp/4103502916)
+
 - [ ] [一歩を越える勇気](https://www.amazon.co.jp/%E4%B8%80%E6%AD%A9%E3%82%92%E8%B6%8A%E3%81%88%E3%82%8B%E5%8B%87%E6%B0%97-%E6%A0%97%E5%9F%8E%E5%8F%B2%E5%A4%9A/dp/476319979X/ref=sr_1_1?ie=UTF8&qid=1538930250&sr=8-1&keywords=%E6%A0%97%E5%9F%8E%E5%8F%B2%E5%A4%9A)
 
-
- 
 ## todo list
 
 - [x] JLPT N2 passed
