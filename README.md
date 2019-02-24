@@ -111,6 +111,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [一歩を越える勇気](https://www.amazon.co.jp/%E4%B8%80%E6%AD%A9%E3%82%92%E8%B6%8A%E3%81%88%E3%82%8B%E5%8B%87%E6%B0%97-%E6%A0%97%E5%9F%8E%E5%8F%B2%E5%A4%9A/dp/476319979X/ref=sr_1_1?ie=UTF8&qid=1538930250&sr=8-1&keywords=%E6%A0%97%E5%9F%8E%E5%8F%B2%E5%A4%9A)
 
+- [ ] [T5―台湾書籍設計最前線](https://www.amazon.co.jp/T5%E2%80%95%E5%8F%B0%E6%B9%BE%E6%9B%B8%E7%B1%8D%E8%A8%AD%E8%A8%88%E6%9C%80%E5%89%8D%E7%B7%9A-%E6%9D%B1%E4%BA%AC%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%A6%E7%BE%8E%E8%A1%93%E5%AD%A6%E9%83%A8/dp/4904049470)
+
 ## todo list
 
 - [x] JLPT N2 passed
