@@ -105,6 +105,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [日常東京Tokyo Style](https://www.books.com.tw/products/0010708635)
 
+- [x] [東京散步思考：由點到面看城市，室內設計師的17個觀察側寫](https://www.books.com.tw/products/0010765036)
+
 - [x] [夢をかなえるゾウ](https://www.amazon.co.jp/%E5%A4%A2%E3%82%92%E3%81%8B%E3%81%AA%E3%81%88%E3%82%8B%E3%82%BE%E3%82%A6-%E6%B0%B4%E9%87%8E%E6%95%AC%E4%B9%9F-ebook/dp/B00CHIL9JO)
 
 - [x] [最後の秘境 東京藝大:天才たちのカオスな日常](https://www.amazon.co.jp/%E6%9C%80%E5%BE%8C%E3%81%AE%E7%A7%98%E5%A2%83-%E6%9D%B1%E4%BA%AC%E8%97%9D%E5%A4%A7-%E5%A4%A9%E6%89%8D%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%AB%E3%82%AA%E3%82%B9%E3%81%AA%E6%97%A5%E5%B8%B8-%E4%BA%8C%E5%AE%AE-%E6%95%A6%E4%BA%BA/dp/4103502916)
