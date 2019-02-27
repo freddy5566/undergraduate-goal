@@ -83,6 +83,12 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] [Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728/ref=sr_1_1?s=books&ie=UTF8&qid=1550502017&sr=1-1&keywords=find+your+why)
 
+- [ ] [Korea：The Impossible Country](https://www.amazon.com/Korea-Impossible-Economic-Political-Phenomenon/dp/0804842523)
+
+- [ ] [Trap Tales: Outsmarting the 7 Hidden Obstacles to Success](https://www.amazon.com/Trap-Tales-Outsmarting-Obstacles-Success/dp/1119365899/ref=sr_1_1?keywords=David+M+R+Covey+Stephan+M+Mardyks&qid=1551281376&s=books&sr=8-1-spell)
+
+- [ ] [Two Awesome Hours: Science-Based Strategies to Harness Your Best Time and Get Your Most Important Work Done ](https://www.amazon.com/Two-Awesome-Hours-Science-Based-Strategies/dp/B01NH0A5G8/ref=sr_1_fkmr0_2?keywords=wo+Awesome+Hours%3A+Science-Based+Strategies+to+Harness+Your+Best+Time+and+Get+Your+Most+Important+Work+Done&qid=1551281476&s=gateway&sr=8-2-fkmr0)
+
 - [x] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
