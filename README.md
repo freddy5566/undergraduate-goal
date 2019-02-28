@@ -133,8 +133,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [ ] Android development
 - [x] Front-end development
 - [ ] Back-end development
-- [ ] Machine learning
-- [ ] Deep learning
+- [x] Machine learning
+- [x] Deep learning
 - [ ] NLP
 - [ ] React native
 - [ ] Flutter
@@ -146,7 +146,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] Join open source project
 - [x] Go on a trip around Taiwan
 - [ ] Go on a trip around Japan
-- [ ] Start a startup
+- [x] Start a startup
 - [x] Play guitar
 - [ ] Freediving
 
