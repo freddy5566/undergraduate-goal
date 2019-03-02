@@ -109,7 +109,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] [聽說你在創業](https://www.books.com.tw/products/0010811353)
 
-- [ ] [日常東京Tokyo Style](https://www.books.com.tw/products/0010708635)
+- [x] [日常東京Tokyo Style](https://www.books.com.tw/products/0010708635)
 
 - [x] [東京散步思考：由點到面看城市，室內設計師的17個觀察側寫](https://www.books.com.tw/products/0010765036)
 
