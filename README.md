@@ -41,7 +41,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [Purple Cow](https://www.amazon.com/Purple-Cow-New-Transform-Remarkable/dp/1591843170)
 
-- [ ] [Le Corps poétique : un enseignement de la création théâtrale](https://www.amazon.fr/Corps-po%C3%A9tique-enseignement-cr%C3%A9ation-th%C3%A9%C3%A2trale/dp/274270454X) reading it.
+- [x] [Le Corps poétique : un enseignement de la création théâtrale](https://www.amazon.fr/Corps-po%C3%A9tique-enseignement-cr%C3%A9ation-th%C3%A9%C3%A2trale/dp/274270454X)
 
 - [x] [Steve Jobs](https://www.amazon.fr/Steve-Jobs-Walter-Isaacson/dp/2253168521/ref=sr_1_1?s=books&ie=UTF8&qid=1542557294&sr=1-1&keywords=steve+jobs)
 
