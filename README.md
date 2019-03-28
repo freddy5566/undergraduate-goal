@@ -45,7 +45,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [x] [Steve Jobs](https://www.amazon.fr/Steve-Jobs-Walter-Isaacson/dp/2253168521/ref=sr_1_1?s=books&ie=UTF8&qid=1542557294&sr=1-1&keywords=steve+jobs)
 
-- [ ] [Bad Blood](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
+- [x] [Bad Blood](https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
 
 - [ ] [How Music Works: The Science and Psychology of Beautiful Sounds, from Beethoven to the Beatles and Beyond](https://www.amazon.com/How-Music-Works-Psychology-Beautiful/dp/0316098310)
 
