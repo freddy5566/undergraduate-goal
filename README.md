@@ -89,6 +89,8 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [Two Awesome Hours: Science-Based Strategies to Harness Your Best Time and Get Your Most Important Work Done ](https://www.amazon.com/Two-Awesome-Hours-Science-Based-Strategies/dp/B01NH0A5G8/ref=sr_1_fkmr0_2?keywords=wo+Awesome+Hours%3A+Science-Based+Strategies+to+Harness+Your+Best+Time+and+Get+Your+Most+Important+Work+Done&qid=1551281476&s=gateway&sr=8-2-fkmr0)
 
+- [ ] [The Singularity is Near: When Humans Transcend Biology](https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology-ebook/dp/B000QCSA7C)
+
 - [x] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
