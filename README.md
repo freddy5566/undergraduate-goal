@@ -145,6 +145,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [ ] MIT intern program
 - [ ] Google summer of code
 - [ ] Apple WWDC scholarship
+- [x] Google MLCC
 - [x] Join open source project
 - [x] Go on a trip around Taiwan
 - [x] Start a startup
