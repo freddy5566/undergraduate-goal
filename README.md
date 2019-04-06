@@ -134,14 +134,11 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] Ios development (swift/objective-c)
 - [ ] Android development
 - [x] Front-end development
-- [ ] Back-end development
+- [x] Back-end development
 - [x] Machine learning
 - [x] Deep learning
 - [ ] NLP
-- [ ] React native
-- [ ] Flutter
 - [ ] Doing summer research
-- [ ] SQL
 - [ ] MIT intern program
 - [ ] Google summer of code
 - [ ] Apple WWDC scholarship
@@ -150,7 +147,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] Go on a trip around Taiwan
 - [x] Start a startup
 - [x] Play guitar
-- [ ] Freediving
+- [x] Freediving
 
 ## online courses
 
