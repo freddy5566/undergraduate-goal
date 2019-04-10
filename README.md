@@ -157,7 +157,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
  - [x] [UC Berkeley cs61b](https://sp18.datastructur.es/)
  - [x] [Stanford cs193p](https://www.youtube.com/playlist?list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN)
  - [x] [Stanford cs106](https://see.stanford.edu/Course/CS106A)
- - [ ] [Stanford cs230](http://cs230.stanford.edu/)
+ - [x] [Stanford cs230](http://cs230.stanford.edu/)
  - [x] [Stanford cs224n](http://web.stanford.edu/class/cs224n/)
  - [x] [Stanford cs231n](http://cs231n.stanford.edu/)
  - [ ] [Stanford cs229](http://cs229.stanford.edu/)
