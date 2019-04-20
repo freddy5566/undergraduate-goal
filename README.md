@@ -13,7 +13,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made Billions . . . and Created Plenty of Controversy](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy-ebook/dp/B01NCJRMQV/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
 
-- [ ] [Disrupted: My Misadventure in the Start-Up Bubble](https://www.amazon.com/Disrupted-My-Misadventure-Start-Up-Bubble-ebook/dp/B013CATZIC)
+- [x] [Disrupted: My Misadventure in the Start-Up Bubble](https://www.amazon.com/Disrupted-My-Misadventure-Start-Up-Bubble-ebook/dp/B013CATZIC)
 
 - [ ] [The Idea Factory: Learning to Think at MIT](https://www.amazon.com/Idea-Factory-Learning-Think-Press-ebook-dp-B001949X9U/dp/B001949X9U/ref=mt_kindle?_encoding=UTF8&me=&qid=)
 
@@ -128,7 +128,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 ## todo list
 
 - [x] JLPT N2 passed
-- [ ] JLPT N1 passed (doing)
+- [ ] JLPT N1 passed
 - [ ] TOEFL score above 110
 - [ ] GRE
 - [x] Doing summer intern
