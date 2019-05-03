@@ -152,6 +152,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] Start a startup
 - [x] Play guitar
 - [x] Freediving
+- [ ] Publish paper
 
 ## online courses
 
