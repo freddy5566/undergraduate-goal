@@ -153,6 +153,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] Play guitar
 - [x] Freediving
 - [ ] Publish paper
+- [ ] Quantum computer
 
 ## online courses
 
