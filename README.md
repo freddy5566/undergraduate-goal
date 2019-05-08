@@ -142,6 +142,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] Machine learning
 - [x] Deep learning
 - [ ] NLP
+- [ ] Computer vision
 - [ ] Doing summer research
 - [ ] MIT intern program
 - [ ] Google summer of code
@@ -154,6 +155,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [x] Freediving
 - [ ] Publish paper
 - [ ] Quantum computer
+- [ ] UI/UX
 
 ## online courses
 
