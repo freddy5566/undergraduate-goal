@@ -1,7 +1,7 @@
-# undergraduate-goal
-it is my personal goal before i graduate from college, if you guys have some cool advices, please just let me know
+# Undergraduate-goal
+It's my personal goal before I graduate from college, if you guys have some cool advices, please just let me know.
 
-## reading list
+## Reading list
 
 - [x] [The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.amazon.com/Start-up-You-Future-Yourself-Transform/dp/0307888908)
 
@@ -127,7 +127,7 @@ it is my personal goal before i graduate from college, if you guys have some coo
 
 - [ ] [T5―台湾書籍設計最前線](https://www.amazon.co.jp/T5%E2%80%95%E5%8F%B0%E6%B9%BE%E6%9B%B8%E7%B1%8D%E8%A8%AD%E8%A8%88%E6%9C%80%E5%89%8D%E7%B7%9A-%E6%9D%B1%E4%BA%AC%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%A6%E7%BE%8E%E8%A1%93%E5%AD%A6%E9%83%A8/dp/4904049470)
 
-## todo list
+## Todo list
 
 - [x] JLPT N2 passed
 - [ ] JLPT N1 passed
@@ -156,8 +156,10 @@ it is my personal goal before i graduate from college, if you guys have some coo
 - [ ] Publish paper
 - [ ] Quantum computer
 - [ ] UI/UX
+- [ ] Open source Rx-related library
+- [ ] Launch an ios app
 
-## online courses
+## Online courses
 
  - [x] [Harvard cs50](https://www.youtube.com/user/cs50tv)
  - [x] [UC Berkeley cs61b](https://sp18.datastructur.es/)
