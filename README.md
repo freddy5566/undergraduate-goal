@@ -137,6 +137,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [x] GPA over 3.5
 - [x] Ios development (swift/objective-c)
 - [ ] Android development
+- [ ] Cross platform development
 - [x] Front-end development
 - [x] Back-end development
 - [x] Machine learning
@@ -153,6 +154,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [x] Start a startup
 - [x] Play guitar
 - [x] Freediving
+- [ ] Summer internship in Japan
 - [ ] Publish paper
 - [ ] Quantum computer
 - [ ] UI/UX
