@@ -49,6 +49,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [ ] [The Singularity is Near: When Humans Transcend Biology](https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology-ebook/dp/B000QCSA7C)
 - [x] [Bluefishing: The Art of Making Things Happen](https://www.amazon.com/Bluefishing-Art-Making-Things-Happen-ebook/dp/B071CJZZS5)
 - [ ] [The Everything Store: Jeff Bezos and the Age of Amazon](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon-ebook/dp/B00BWQW73E)
+- [x] [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.amazon.co.jp/Art-Strategy-Theorists-Success-Business/dp/0393337170)
 - [x] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
 - [ ] [東印度公司與亞洲的海洋：跨國公司如何創造二百年歐亞整體史](https://www.books.com.tw/products/0010776944)
