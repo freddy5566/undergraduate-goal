@@ -110,6 +110,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
  - [x] [Stanford cs106](https://see.stanford.edu/Course/CS106A)
  - [x] [Stanford cs230](http://cs230.stanford.edu/)
  - [x] [Stanford cs224n](http://web.stanford.edu/class/cs224n/)
+ - [ ] [Stanford cs224u](http://web.stanford.edu/class/cs224u/)
  - [x] [Stanford cs231n](http://cs231n.stanford.edu/)
  - [ ] [Stanford cs229](http://cs229.stanford.edu/)
  - [x] [Stanford cs20](http://web.stanford.edu/class/cs20si/syllabus.html)
@@ -124,3 +125,4 @@ It's my personal goal before I graduate from college, if you guys have some cool
  - [x] [NTU Machine Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
  - [ ] [NTU Deep Learning and Human Language Processing](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLNLP18.html)
  - [ ] [NTU Linear Algebra](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA18.html)
+
