@@ -93,6 +93,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [ ] Google summer of code
 - [ ] Apple WWDC scholarship
 - [x] Google MLCC
+- [x] Google Developer Student Club
 - [x] Join open source project
 - [x] Go on a trip around Taiwan
 - [x] Start a startup
