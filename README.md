@@ -87,7 +87,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [x] Machine learning
 - [x] Deep learning
 - [ ] NLP
-- [ ] Computer vision
+- [ ] NLU
 - [ ] Doing summer research
 - [ ] MIT intern program
 - [ ] Google summer of code
@@ -102,7 +102,6 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [ ] Summer internship in Japan
 - [ ] Publish paper
 - [ ] Quantum computer
-- [ ] UI/UX
 - [ ] Open source Rx-related library
 - [ ] Launch an ios app
 
