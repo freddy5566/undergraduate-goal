@@ -54,6 +54,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [x]  [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility/dp/1939714095)
 - [x]  [Peak: Secrets from the New Science of Expertise](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
 - [x] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
+- [x] [閃電式開發：站在風口上贏得市場，從0到100億的創業黃金公式](https://www.books.com.tw/products/0010811807)
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
 - [ ] [東印度公司與亞洲的海洋：跨國公司如何創造二百年歐亞整體史](https://www.books.com.tw/products/0010776944)
 - [ ] [搖擺於歐亞間的沙皇們：俄羅斯‧羅曼諾夫王朝的大地](https://www.books.com.tw/products/0010776947)
