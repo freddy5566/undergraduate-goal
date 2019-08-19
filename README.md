@@ -53,6 +53,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [x] [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.amazon.co.jp/Art-Strategy-Theorists-Success-Business/dp/03933371)
 - [x]  [Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility/dp/1939714095)
 - [x]  [Peak: Secrets from the New Science of Expertise](https://www.amazon.com/Peak-Secrets-New-Science-Expertise-ebook/dp/B011H56MKS)
+- [ ]  [The Membership Economy: Find Your Super Users, Master the Forever Transaction, and Build Recurring Revenue](https://www.amazon.co.jp/Membership-Economy-Forever-Transaction-Recurring/dp/0071839321)
 - [x] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 - [x] [閃電式開發：站在風口上贏得市場，從0到100億的創業黃金公式](https://www.books.com.tw/products/0010811807)
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
