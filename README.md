@@ -80,6 +80,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [ ] TOEFL score above 110
 - [ ] GRE
 - [x] Doing summer intern
+- [ ] Doing summer intern at Japan
 - [x] GPA over 3.5
 - [x] Ios development (swift/objective-c)
 - [ ] Android development
