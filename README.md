@@ -83,8 +83,6 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [ ] Doing summer intern at Japan
 - [x] GPA over 3.5
 - [x] Ios development (swift/objective-c)
-- [ ] Android development
-- [ ] Cross platform development
 - [x] Front-end development
 - [x] Back-end development
 - [x] Machine learning
