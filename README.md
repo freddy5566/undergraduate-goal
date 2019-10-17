@@ -64,7 +64,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [x] [大清帝國與中華的混迷：現代東亞如何處理內亞帝國的遺產](https://www.books.com.tw/products/0010799939)
 - [ ] [世界因你不同：李開復從心選擇的人生](https://www.books.com.tw/products/0010683669)
 - [ ] [願你的深情，能被溫柔以待](https://www.books.com.tw/products/0010794010)
-- [ ] [筆尖上的擺渡人](https://www.books.com.tw/products/0010767529)
+- [x] [筆尖上的擺渡人](https://www.books.com.tw/products/0010767529)
 - [x] [蔡康永的情商課：為你自己活一次](https://www.books.com.tw/products/0010802223)
 - [x] [聽說你在創業](https://www.books.com.tw/products/0010811353)
 - [x] [日常東京 Tokyo Style](https://www.books.com.tw/products/0010708635)
