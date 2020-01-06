@@ -75,6 +75,9 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [x] [一歩を越える勇気](https://www.amazon.co.jp/%E4%B8%80%E6%AD%A9%E3%82%92%E8%B6%8A%E3%81%88%E3%82%8B%E5%8B%87%E6%B0%97-%E6%A0%97%E5%9F%8E%E5%8F%B2%E5%A4%9A/dp/476319979X/ref=sr_1_1?ie=UTF8&qid=1538930250&sr=8-1&keywords=%E6%A0%97%E5%9F%8E%E5%8F%B2%E5%A4%9A)
 - [x] [行動経済学 経済は「感情」で動いている (光文社新書)]([https://www.amazon.co.jp/%E8%A1%8C%E5%8B%95%E7%B5%8C%E6%B8%88%E5%AD%A6-%E7%B5%8C%E6%B8%88%E3%81%AF%E3%80%8C%E6%84%9F%E6%83%85%E3%80%8D%E3%81%A7%E5%8B%95%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B-%E5%85%89%E6%96%87%E7%A4%BE%E6%96%B0%E6%9B%B8-%E5%8F%8B%E9%87%8E-%E5%85%B8%E7%94%B7/dp/4334033547](https://www.amazon.co.jp/行動経済学-経済は「感情」で動いている-光文社新書-友野-典男/dp/4334033547))
 - [x] [T5―台湾書籍設計最前線](https://www.amazon.co.jp/T5%E2%80%95%E5%8F%B0%E6%B9%BE%E6%9B%B8%E7%B1%8D%E8%A8%AD%E8%A8%88%E6%9C%80%E5%89%8D%E7%B7%9A-%E6%9D%B1%E4%BA%AC%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%A6%E7%BE%8E%E8%A1%93%E5%AD%A6%E9%83%A8/dp/4904049470)
+- [ ] [日本国紀]([https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E5%9B%BD%E7%B4%80-%E7%99%BE%E7%94%B0-%E5%B0%9A%E6%A8%B9/dp/434403385X](https://www.amazon.co.jp/日本国紀-百田-尚樹/dp/434403385X))
+- [ ] [Flow: The Psychology of Optimal Experience](https://www.amazon.co.jp/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202)
+- [ ] [我相信世界可以改變：韓國MBC記者提供的鏡子](https://www.books.com.tw/products/0010790987)
 
 ## Todo list
 
