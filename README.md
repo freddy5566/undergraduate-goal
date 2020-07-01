@@ -58,6 +58,7 @@ It's my personal goal before I graduate from college, if you guys have some cool
 - [ ] [ブラックスワンの経営学 通説をくつがえした世界最優秀ケーススタディ]([https://www.amazon.co.jp/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%AF%E3%83%B3%E3%81%AE%E7%B5%8C%E5%96%B6%E5%AD%A6-%E9%80%9A%E8%AA%AC%E3%82%92%E3%81%8F%E3%81%A4%E3%81%8C%E3%81%88%E3%81%97%E3%81%9F%E4%B8%96%E7%95%8C%E6%9C%80%E5%84%AA%E7%A7%80%E3%82%B1%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3-%E4%BA%95%E4%B8%8A%E9%81%94%E5%BD%A6/dp/4822250296](https://www.amazon.co.jp/ブラックスワンの経営学-通説をくつがえした世界最優秀ケーススタディ-井上達彦/dp/4822250296))
 - [ ] [TOOLS OF TITANS](https://www.amazon.com/dp/1328683788/ref=sr_1_1?keywords=tools+of+titans&qid=1571758710&sr=8-1)
 - [ ] [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316)
+- [x] [Quirky: The Remarkable Story of the Traits, Foibles, and Genius of Breakthrough Innovators Who Changed the World](https://www.amazon.com/Quirky-Remarkable-Foibles-Breakthrough-Innovators-ebook/dp/B072JT4CGQ#:~:text=April%2025%2C%202019-,Quirky%3A%20The%20Remarkable%20Story%20of%20the%20Traits%2C%20Foibles%2C%20and,Innovators%20Who%20Changed%20the%20World.&text=In%20Quirky%2C%20Melissa%20Schilling%20focuses,Steve%20Jobs%2C%20and%20Dean%20Kamen.) 
 - [x] [成長駭客：未來十年最被需要的新型人才，用低成本的創意思考和分析技術，讓創業公司的用戶、流量與營收成長翻倍](https://www.books.com.tw/products/0010707695)
 - [x] [閃電式開發：站在風口上贏得市場，從0到100億的創業黃金公式](https://www.books.com.tw/products/0010811807)
 - [x] [最低的水果摘完之後](https://www.books.com.tw/products/0010774819)
